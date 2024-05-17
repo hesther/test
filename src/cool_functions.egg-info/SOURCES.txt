@@ -1,0 +1,7 @@
+pyproject.toml
+src/cool_functions/__init__.py
+src/cool_functions/some_other_funcs.py
+src/cool_functions.egg-info/PKG-INFO
+src/cool_functions.egg-info/SOURCES.txt
+src/cool_functions.egg-info/dependency_links.txt
+src/cool_functions.egg-info/top_level.txt
